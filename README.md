@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about network administration, Docke
 - System administration and automation
 
 ### 📫 How to Reach Me
-- Email: [admin@ombulo.net](admin@ombulo.net)
+- Email: [admin@ombulo.net](mailto:admin@ombulo.net)
 - Youtube: [Mostech Pro](https://www.youtube.com/@mostechnetwork)
 
 ### ⚡ Fun Fact
