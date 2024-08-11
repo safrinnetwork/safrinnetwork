@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm passionate about network administration, Docke
 
 ### 🌱 What I'm Currently Learning
 - Docker containerization and orchestration
-- Advanced networking with MikroTik and Pi-hole
+- Advanced networking with
 - Scripting and automation with Python and Bash
 
 ### 🔭 What I'm Working On
-- Enhancing network security and management using custom Docker setups
-- Integrating network monitoring tools with MikroTik and Pi-hole
-- Exploring GenieACS for TR-069 device management
+- Enhancing network security and management
+- Integrating network monitoring tools
+- Exploring TR-069 device management
 
 ### 💬 Ask Me About
 - Docker and containerization techniques
