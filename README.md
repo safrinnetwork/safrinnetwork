@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about network administration, Docke
 
 ### 🌱 What I'm Currently Learning
 - Docker containerization and orchestration
-- Advanced networking with
+- Advanced networking
 - Scripting and automation with Python and Bash
 
 ### 🔭 What I'm Working On
